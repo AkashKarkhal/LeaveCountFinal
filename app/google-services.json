@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804170089336",
+    "project_id": "leavecountfinal-bacca",
+    "storage_bucket": "leavecountfinal-bacca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804170089336:android:7d94e9d40f310fada23e8d",
+        "android_client_info": {
+          "package_name": "com.example.leavecountfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1TkgX4kLiNvriVbuUwdA6fmzZlvV_kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
